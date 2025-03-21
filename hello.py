@@ -1,1 +1,1 @@
-print("Hello PfDA!")
+print("Hello Class!")
